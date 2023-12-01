@@ -15,6 +15,7 @@ menu_busqueda y busqueda: Se usa búsqueda binaria, se aproxima a O(log N).
 ### Hace un análisis de complejidad correcto y completo para todos los demás componentes del programa y determina la complejidad final del programa.
 
 getters: O(1), son accesos simples.
+
 toString_juegos: O(n), pues se recorre la lista una vez.
 toString_elemento: O(1). Es constante debido a que llama a la función formato_juego, la cual realiza operaciones de concatenación.
 toString_atributo: O(n), pues igual recorre una vez la lista.

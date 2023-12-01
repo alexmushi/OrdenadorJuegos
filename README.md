@@ -1,4 +1,4 @@
-# Ordenador automático de videojuegos
+# Ordenador de videojuegos
 Este proyecto tiene como propósito ordenar videojuegos extraídos de un archivo .csv por orden alfabético, fecha de estreno, rating o precio. También se pueden buscar juegos por atributos en específico, y de igual manera se pueden guardar ya ordenados por la opción elegida por el usuario en un archivo .csvMi inspiración para este código fue la plataforma de videojuegos Steam, pues usa un método similar para ordenar sus videojuegos. 
 
 ## SICT0301: Evalúa los componentes
